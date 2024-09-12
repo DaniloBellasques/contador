@@ -1,3 +1,3 @@
 #Projeto Contador em JS
 
-<img src="contador.png" alt="">
+<img src="/images/contador.png" alt="contador">
